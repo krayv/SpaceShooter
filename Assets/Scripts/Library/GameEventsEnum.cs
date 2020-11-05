@@ -1,0 +1,14 @@
+﻿
+public enum GameEventsEnum 
+{
+    ENTITY_DEAD,
+    PLAYER_DEAD,
+    PLAYER_LIVE_CHANGED,
+
+
+    PRESS_SETTING_BUTTON,
+    PRESS_MAIN_PANEL_INGAME_BUTTON,
+    PRESS_RECORDS_PANEL,
+    START_GAME_SCENE,
+    
+}
